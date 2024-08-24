@@ -1,0 +1,37 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "Create Food App web-application",
+ 
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/mo-arman/Food-App.git)"
+  },
+  "keywords": [
+    "food",
+    "food",
+    "processor",
+    "food",
+    "service",
+    "f&b"
+  ],
+  "author": "Mohammad Arman",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserlist": [
+    "last 2 chrome version",
+    "last 2 FireFox version"
+  ]
+}
