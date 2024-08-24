@@ -15,3 +15,5 @@
 - Differential Bundling - support older browser
 - Tree Shaking - remove unused code
 - Different dev and prod bundles
+
+# Laying The Foundation Our Food App
